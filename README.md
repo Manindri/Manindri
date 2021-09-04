@@ -1,4 +1,5 @@
-### Hi there 👋
+IT20246778
+Manindri
 
 <!--
 **Manindri/Manindri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
